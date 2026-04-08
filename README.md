@@ -42,10 +42,10 @@ Cómo la Ofimática ayuda a los programadores a documentar contenidos técnicos 
 **[Acceder a la Presentación en Google Slides](https://docs.google.com/presentation/d/)**
 
 ### 📁 Carpeta Compartida (Google Drive)
-**[Abrir Carpeta del Proyecto](https://drive.google.com/drive/folders/)**
+**[Abrir Carpeta del Proyecto]([https://drive.google.com/drive/folders/](https://drive.google.com/drive/folders/1fxKszveWhwjWMEPEnVvXiU-NVc8GuLzB?usp=drive_link))**
 
 ### 📄 Documento Colaborativo
-**[Ver Documento Principal](https://docs.google.com/document/d/)**
+**[Ver Documento Principal]([https://docs.google.com/document/d/](https://docs.google.com/document/d/1-BBktXcnds14QVOHZ1y3ZYSRlrGOffMe/edit?usp=drive_link&ouid=115411390953220067781&rtpof=true&sd=true))**
 
 ---
 

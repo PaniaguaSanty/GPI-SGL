@@ -50,10 +50,8 @@ Cómo la Ofimática ayuda a los programadores a documentar contenidos técnicos 
 | Herramienta | Descripción | Uso |
 |------------|-------------|-----|
 | 📝 **Google Docs** | Procesador de textos en la nube | Redacción y edición de contenidos |
-| 🎨 **Google Slides** | Herramienta de presentaciones | Creación de presentación del proyecto |
 | 📊 **Google Drive** | Almacenamiento en la nube | Organización y compartir archivos |
 | 💻 **GitHub** | Control de versiones | Gestión del repositorio y README |
-| 🎯 **Canva** | Diseño gráfico | Elementos visuales y infografías |
 
 ---
 
@@ -72,13 +70,7 @@ Cómo la Ofimática ayuda a los programadores a documentar contenidos técnicos 
 📁 innovation-research-lab/
 ├── 📄 README.md (este archivo)
 ├── 📁 docs/
-│   ├── normas-apa.md
-│   ├── innovacion.md
-│   └── aplicacion-practica.md
-├── 📁 presentacion/
-│   └── diapositivas-proyecto.pptx
-└── 📁 recursos/
-    └── referencias.md
+│   ├── Micro-Investigación-APA e Innovación tecnológica
 ```
 
 ---

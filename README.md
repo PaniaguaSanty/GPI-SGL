@@ -42,7 +42,7 @@ Cómo la Ofimática ayuda a los programadores a documentar contenidos técnicos 
 **[Abrir Carpeta del Proyecto]([[[https://drive.google.com/drive/folders/](https://drive.google.com/drive/folders/1fxKszveWhwjWMEPEnVvXiU-NVc8GuLzB?usp=drive_link)](https://drive.google.com/drive/folders/1fxKszveWhwjWMEPEnVvXiU-NVc8GuLzB?hl=es_ES)](https://drive.google.com/drive/folders/1EjN7ZeFolR5IyT6Io6xMtIZmXhqLUiEx?usp=drive_link))**
 
 ### 📄 Documento Colaborativo
-**[Ver Documento Principal]([https://docs.google.com/document/d/](https://docs.google.com/document/d/1-BBktXcnds14QVOHZ1y3ZYSRlrGOffMe/edit?usp=drive_link&ouid=115411390953220067781&rtpof=true&sd=true))**
+**[Ver Documento Principal]([[https://docs.google.com/document/d/](https://docs.google.com/document/d/1-BBktXcnds14QVOHZ1y3ZYSRlrGOffMe/edit?usp=drive_link&ouid=115411390953220067781&rtpof=true&sd=true)](https://docs.google.com/document/d/1-BBktXcnds14QVOHZ1y3ZYSRlrGOffMe/edit?usp=drive_link&ouid=115411390953220067781&rtpof=true&sd=true))**
 
 ---
 

@@ -8,8 +8,8 @@
 
 | 👤 Integrante | 🎯 Rol | 📚 Tareas | 🔗 Perfil de Github |
 |---------------|--------|-----------|-------------------|
-| **Santiago Agustín Paniagua** | 🔐 Scrum Master (Git Master) | • Gestión del proyecto y coordinación del equipo<br>• Control de versiones con Git/GitHub<br>• Seguimiento del timeline y entregas<br>• Organización y mantenimiento del repositorio | [@SantiagoAPaniagua](https://github.com/PaniaguaSanty10) |
-| **Gonzalo Raúl Goires** | 📚 Product Owner (Documentalista) | • Gestión de requerimientos del proyecto<br>• Redacción y estructuración de contenidos<br>• Normalización de documentos según APA<br>• Validación de calidad de documentación | [@Chalo24]((https://github.com/chalo24)) |
+| **Santiago Agustín Paniagua** | 🔐 Scrum Master (Git Master) | • Gestión del proyecto y coordinación del equipo<br>• Control de versiones con Git/GitHub<br>• Seguimiento del timeline y entregas<br>• Organización y mantenimiento del repositorio | [@SantiagoAPaniagua](https://github.com/PaniaguaSanty) |
+| **Gonzalo Raúl Goires** | 📚 Product Owner (Documentalista) | • Gestión de requerimientos del proyecto<br>• Redacción y estructuración de contenidos<br>• Normalización de documentos según APA<br>• Validación de calidad de documentación | [@Chalo24](https://github.com/chalo24) |
 | **Lautaro Agustín Ledesma** | 🔬 Dev Team (Investigador Técnico) | • Investigación sobre tendencias tecnológicas<br>• Recopilación de datos y análisis<br>• Desarrollo de contenido técnico<br>• Creación de recursos y ejemplos prácticos | [@LautaroLedesma](https://github.com/LauLede) |
 ---
 
